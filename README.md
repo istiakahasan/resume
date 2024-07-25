@@ -1,2 +1,2 @@
 # resume
-My resume for complete development course
+My resume for portfolio project (web development course)
